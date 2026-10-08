@@ -1,0 +1,13 @@
+# Data files — never commit physics data
+*.root
+*.part
+MC/
+Data/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Script output archive
+figures.zip
